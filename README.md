@@ -1,4 +1,3 @@
-````md
 # Mini SQL Engine
 
 A simplified in-memory SQL query engine built from scratch using Python.  
@@ -161,14 +160,5 @@ Errors are reported with clear, user-friendly messages without crashing the prog
 * Query execution follows a logical pipeline:
   **FROM → WHERE → AGGREGATION → SELECT**
 * No external SQL or parsing libraries are used to emphasize core algorithmic understanding
-
----
-
-## Educational Purpose
-
-This project is designed as a hands-on learning exercise to understand how basic SQL
-query engines work internally, focusing on parsing, filtering, projection, and aggregation.
-
-````
 
 ---
